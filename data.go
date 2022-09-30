@@ -2,7 +2,7 @@ package main
 
 // Replace with your data.
 const (
-	YourName   = "@_conejo"
-	YourTitle1 = "technologist"
-	YourTitle2 = "FOR HIRE"
+	YourName   = "@XanderGrzy"
+	YourTitle1 = "Product Manager"
+	YourTitle2 = "Microsoft"
 )
