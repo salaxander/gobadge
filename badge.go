@@ -57,14 +57,6 @@ func Badge() {
 		if quit {
 			break
 		}
-		blinkyRainbow(YourTitle1, YourTitle2)
-		if quit {
-			break
-		}
-		blinkyRainbow("Hack Session", "29th All Day")
-		if quit {
-			break
-		}
 	}
 }
 
